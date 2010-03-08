@@ -1,0 +1,45 @@
+13:46:42	MoveCommonAssemblyInfoToRoot: Moving CommonAssemblyInfo.cs from D:\dev\personal\SwanBob\SwanBob\SolutionItemsContainer\CommonAssemblyInfo.cs to root at D:\dev\personal\SwanBob\SwanBob\CommonAssemblyInfo.cs
+13:46:42	MoveSolutionItemsToLib: Moving solution items from D:\dev\personal\SwanBob\SwanBob\SolutionItemsContainer\Solution Items to lib at D:\dev\personal\SwanBob\SwanBob\lib
+13:46:43	MoveSolutionItemsToToolsLib: Moving tools solution items from D:\dev\personal\SwanBob\SwanBob\ToolsSolutionItemsContainer\Solution Items to tools lib at D:\dev\personal\SwanBob\SwanBob\tools\lib
+13:46:46	MoveProjectTo: Removing SwanBob.Core from solution
+13:46:47	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\SwanBob.Core\SwanBob.Core.csproj
+13:46:47	MoveProjectTo: Moving SwanBob.Core from D:\dev\personal\SwanBob\SwanBob\SwanBob.Core to target location at D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Core
+13:46:47	MoveProjectTo: Adding SwanBob.Core to solution
+13:46:51	CaptureProjectGuidOf: Does D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Core\SwanBob.Core.csproj exist? True
+13:46:51	CaptureProjectGuidOf: About to open D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Core\SwanBob.Core.csproj
+13:46:51	CaptureProjectGuidOf: Captured the GUID {3D87B80B-2855-4863-A763-3E6A87B1D84B} for SwanBob.Core
+13:46:51	MoveProjectTo: Removing SwanBob.ApplicationServices from solution
+13:46:52	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\SwanBob.ApplicationServices\SwanBob.ApplicationServices.csproj
+13:46:52	MoveProjectTo: Moving SwanBob.ApplicationServices from D:\dev\personal\SwanBob\SwanBob\SwanBob.ApplicationServices to target location at D:\dev\personal\SwanBob\SwanBob\app\SwanBob.ApplicationServices
+13:46:52	MoveProjectTo: Adding SwanBob.ApplicationServices to solution
+13:46:53	CaptureProjectGuidOf: Does D:\dev\personal\SwanBob\SwanBob\app\SwanBob.ApplicationServices\SwanBob.ApplicationServices.csproj exist? True
+13:46:53	CaptureProjectGuidOf: About to open D:\dev\personal\SwanBob\SwanBob\app\SwanBob.ApplicationServices\SwanBob.ApplicationServices.csproj
+13:46:53	CaptureProjectGuidOf: Captured the GUID {37F8F9EE-6A70-4E23-BA89-3FFD36FA7B08} for SwanBob.ApplicationServices
+13:46:55	MoveProjectTo: Removing SwanBob.Data from solution
+13:46:55	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\SwanBob.Data\SwanBob.Data.csproj
+13:46:55	MoveProjectTo: Moving SwanBob.Data from D:\dev\personal\SwanBob\SwanBob\SwanBob.Data to target location at D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Data
+13:46:55	MoveProjectTo: Adding SwanBob.Data to solution
+13:46:57	CaptureProjectGuidOf: Does D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Data\SwanBob.Data.csproj exist? True
+13:46:57	CaptureProjectGuidOf: About to open D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Data\SwanBob.Data.csproj
+13:46:57	CaptureProjectGuidOf: Captured the GUID {4A142526-6134-4233-81A4-378C8EC89BDB} for SwanBob.Data
+13:47:02	MoveProjectTo: Removing SwanBob.Web.Controllers from solution
+13:47:03	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\SwanBob.Web.Controllers\SwanBob.Web.Controllers.csproj
+13:47:03	MoveProjectTo: Moving SwanBob.Web.Controllers from D:\dev\personal\SwanBob\SwanBob\SwanBob.Web.Controllers to target location at D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Web.Controllers
+13:47:03	MoveProjectTo: Adding SwanBob.Web.Controllers to solution
+13:47:05	CaptureProjectGuidOf: Does D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Web.Controllers\SwanBob.Web.Controllers.csproj exist? True
+13:47:05	CaptureProjectGuidOf: About to open D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Web.Controllers\SwanBob.Web.Controllers.csproj
+13:47:05	CaptureProjectGuidOf: Captured the GUID {3CCE9C9B-F26E-4ABB-9C89-38029FCDB49C} for SwanBob.Web.Controllers
+13:47:13	MoveProjectTo: Removing SwanBob.Tests from solution
+13:47:14	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\SwanBob.Tests\SwanBob.Tests.csproj
+13:47:14	MoveProjectTo: Moving SwanBob.Tests from D:\dev\personal\SwanBob\SwanBob\SwanBob.Tests to target location at D:\dev\personal\SwanBob\SwanBob\tests\SwanBob.Tests
+13:47:14	MoveProjectTo: Adding SwanBob.Tests to solution
+13:47:26	MoveProjectTo: Removing SwanBob.Web from solution
+13:47:28	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\SwanBob.Web\SwanBob.Web.csproj
+13:47:28	MoveProjectTo: Moving SwanBob.Web from D:\dev\personal\SwanBob\SwanBob\SwanBob.Web to target location at D:\dev\personal\SwanBob\SwanBob\app\SwanBob.Web
+13:47:28	MoveProjectTo: Adding SwanBob.Web to solution
+13:47:32	MoveProjectTo: Removing CrudScaffolding from solution
+13:47:33	PerformManualProjectReplacementsTo: Going to PerformManualProjectReplacementsTo on D:\dev\personal\SwanBob\SwanBob\CrudScaffolding\CrudScaffolding.csproj
+13:47:33	MoveProjectTo: Moving CrudScaffolding from D:\dev\personal\SwanBob\SwanBob\CrudScaffolding to target location at D:\dev\personal\SwanBob\SwanBob\tools\CrudScaffolding
+13:47:33	MoveProjectTo: Adding CrudScaffolding to solution folder D:\dev\personal\SwanBob\SwanBob\tools\CrudScaffolding
+13:47:33	ExcludeProjectFromBuildProcess: Setting build to false for project SwanBob\tools\CrudScaffolding\CrudScaffolding.csproj within the Debug configuration
+13:47:33	ExcludeProjectFromBuildProcess: Setting build to false for project SwanBob\tools\CrudScaffolding\CrudScaffolding.csproj within the Release configuration
